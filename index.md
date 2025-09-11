@@ -10,6 +10,11 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [Bumi - Tere liye](ebook/Bumi - Tere liye.pdf) - Tereliye (2014)
 4. [Yang fana adalah waktu](ebook/Yang fana adalah waktu.pdf) - Sapardi Djoko Damono (2018)
 5. [Ayah - Andrea Hirata](ebook/Ayah - Andrea Hirata.pdf) - Andrea Hirata (2015)
+6. [Syahadat cinta](ebook/Syahadat cinta.pdf) - Taufiqurrahman Al-Azizy (20
+7. [Andrea Hirata - EDENSOR](ebook/Andrea Hirata - EDENSOR.pdf) - Andrea Hirata (2007)
+8. [Royan Revolusi](ebook/Royan Revolusi.pdf) - Ramadhan K.H (1970)
+9. [Tereliye - Matahari](ebook/Tereliye - Matahari.pdf) - Tereliye (2016)
+10. [Konspirasi alam semesta](ebook/Konspirasi alam semesta.pdf) - Fiersa Besari (2017)
    ---
 
    *Powered by GitHub Pages*
